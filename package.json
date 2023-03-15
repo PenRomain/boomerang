@@ -18,8 +18,10 @@
     "cli-color": "^2.0.3",
     "keypress": "^0.2.1",
     "pg": "^8.10.0",
+    "pg-hstore": "^2.3.4",
     "play-sound": "^1.1.5",
     "prettier": "^2.8.4",
-    "sequelize": "^6.29.3"
+    "sequelize": "^6.29.3",
+    "sequelize-cli": "^6.6.0"
   }
 }
